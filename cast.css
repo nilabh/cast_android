@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url("http://palmzlib.sourceforge.net/images/baboon.png");
+  background: center no-repeat url(logo.png);
 }
 
 .logo {
-  background-image: url("http://palmzlib.sourceforge.net/images/baboon.png");
+  background-image: url(logo.png);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url("http://palmzlib.sourceforge.net/images/baboon.png");
+  background-image: url(logo.png);
 }
 
 .watermark {
-  background-image: url("http://palmzlib.sourceforge.net/images/baboon.png");
+  background-image: url(logo.png);
   background-size: 57px 57px;
 }
