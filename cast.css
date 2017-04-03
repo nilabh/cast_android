@@ -1,0 +1,20 @@
+.background {
+  background: center no-repeat url("https://www.simplilearn.com/ice9/banners/home_page_banners/1280x565/new_banner.jpg");
+}
+
+.logo {
+  background-image: url("https://www.simplilearn.com/ice9/new_logo.svgz");
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: url("https://www.simplilearn.com/ice9/new_logo.svgz");
+}
+
+.watermark {
+  background-image: url("https://www.simplilearn.com/ice9/new_logo.svgz");
+  background-size: 57px 57px;
+}
