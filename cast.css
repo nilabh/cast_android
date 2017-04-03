@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url("https://www.simplilearn.com/ice9/banners/home_page_banners/1280x565/new_banner.jpg");
+  background: center no-repeat url("http://palmzlib.sourceforge.net/images/baboon.png");
 }
 
 .logo {
-  background-image: url("https://www.simplilearn.com/ice9/banners/home_page_banners/1280x565/new_banner.jpg");
+  background-image: url("http://palmzlib.sourceforge.net/images/baboon.png");
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url("https://www.simplilearn.com/ice9/banners/home_page_banners/1280x565/new_banner.jpg");
+  background-image: url("http://palmzlib.sourceforge.net/images/baboon.png");
 }
 
 .watermark {
-  background-image: url("https://www.simplilearn.com/ice9/banners/home_page_banners/1280x565/new_banner.jpg");
+  background-image: url("http://palmzlib.sourceforge.net/images/baboon.png");
   background-size: 57px 57px;
 }
