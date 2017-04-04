@@ -1,16 +1,16 @@
 .background {
-  background: url(logo.png) !important;
+  background: url(background.png);
 }
 .logo {
   background-image: url(logo.png);
 }
 .progressBar {
-  background-color: rgb(155, 255, 100) !important;
+  background-color: rgb(155, 255, 100);
 }
 .splash {
-  background-image: url(logo.png);
+  background-image: url(background.png);
 }
 .watermark {
-  background-image: url(logo.png);
+  background-image: url(watermark.png);
   background-size: 57px 57px;
 }
