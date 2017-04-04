@@ -1,6 +1,6 @@
-<span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;">.background {
+.background {
   background: url(logo.png);
-}</span>
+}
 .logo {
   background-image: url(logo.png);
 }
@@ -14,5 +14,3 @@
   background-image: url(logo.png);
   background-size: 57px 57px;
 }
- 
- </span>
