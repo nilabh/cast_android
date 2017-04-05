@@ -1,5 +1,6 @@
 .background {
-  background: url(background.png);
+  background: url(background.png) no-repeat;
+  background-size: cover;
 }
 .logo {
   background-image: url(watermark.png);
