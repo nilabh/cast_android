@@ -1,21 +1,16 @@
 <html>
 <head>
-	<meta charset="utf-8" />
-    <meta http-equiv="Access-Control-Allow-Origin" content="*">
-	<header name = "Access-Control-Allow-Origin" value = "*" />
   <title>Example minimum receiver</title>
   <link rel="stylesheet" href="cast.css">
-  <script src="jquery-3.2.1.js"></script>
+  <script src="//www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js"></script>
 </head>
 <body>
   <video id='media'/>
   <script>
     window.mediaElement = document.getElementById('media');
-	console.log("helllo");
-	var url = "https://lms.simplilearn.com/api/v2/get-signed-url?app=android&filePath=https%3A%2F%2Fcfsigned.simplilearn.com%2FMP4%2Fdefault%2FProject_Management%2FIntroduction+to+PMP%2FIntroduction+to+PMP%2FIntroduction_to_PMP.mp4";
-	$.getJSON( url, function( data ) {
-		console.log(data);
-	});
+    window.mediaManager = new cast.receiver.MediaManager(window.mediaElement);
+    window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
+    window.castReceiverManager.start();
   </script>
 </body>
 </html>
