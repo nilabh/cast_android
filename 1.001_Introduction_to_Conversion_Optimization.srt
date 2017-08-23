@@ -1,0 +1,1249 @@
+1
+00:00:02,120 --> 00:00:06,899
+Hi, I'm Lilach Bullock.
+I'm the Conversion Optimization Faculty
+
+2
+00:00:06,899 --> 00:00:11,040
+Chair for Simplilearn. I'm also Digital
+Marketing Consultant, Social Media
+
+3
+00:00:11,040 --> 00:00:16,260
+Expert, special speaker, and best-selling
+author. I started my first business,
+
+4
+00:00:16,260 --> 00:00:20,609
+Asklilach, in 2006 and grew it
+from just me to having offices and
+
+5
+00:00:20,609 --> 00:00:24,960
+employing staff. I got to work with some
+fabulous people and even went to Downing
+
+6
+00:00:24,960 --> 00:00:29,300
+Street as a finalist for the best MumPreneur of the year.
+
+7
+00:00:39,300 --> 00:00:40,950
+Welcome to the Advanced
+
+8
+00:00:40,950 --> 00:00:44,060
+Conversion Optimization course.
+
+9
+00:00:44,060 --> 00:00:45,480
+I understand the struggle to make online
+
+10
+00:00:45,480 --> 00:00:49,620
+business work for you. I've been there
+and done that and that is why I want to
+
+11
+00:00:49,620 --> 00:00:54,329
+help you to show you what really works,
+to give you the shortcuts, the processes
+
+12
+00:00:54,329 --> 00:00:58,949
+and systems, and insight you need so that,
+you can make the online world work for
+
+13
+00:00:58,949 --> 00:01:03,359
+you in the way that it has worked for me,
+so that you can get the results that you
+
+14
+00:01:03,359 --> 00:01:07,799
+need to grow your business. If you're not
+doing digital right, then it really can
+
+15
+00:01:07,799 --> 00:01:11,850
+feel like a drain on your resources. Are
+you spending money, time, and resources
+
+16
+00:01:11,850 --> 00:01:17,130
+with very little to show for it? I want
+to show you a better way and help you do
+
+17
+00:01:17,130 --> 00:01:21,270
+it right. There's no value in driving
+traffic to your website if that traffic
+
+18
+00:01:21,270 --> 00:01:26,759
+doesn't convert. More conversions mean
+more revenue and, is what you are really
+
+19
+00:01:26,759 --> 00:01:30,659
+interested in. In this lesson, we will
+start by defining Conversion
+
+20
+00:01:30,659 --> 00:01:35,159
+Optimization and then explain why it is
+important to optimize your website for
+
+21
+00:01:35,159 --> 00:01:39,450
+conversions. By the end of this lesson,
+you will have a good understanding of
+
+22
+00:01:39,450 --> 00:01:43,140
+the meaning of Conversion Optimization
+and the difference optimizing a website
+
+23
+00:01:43,140 --> 00:01:48,329
+can make to the online success of your
+business. Let's get started and discover
+
+24
+00:01:48,329 --> 00:01:52,700
+how Conversion Optimization can make a
+real difference to your business. A
+
+25
+00:01:52,700 --> 00:01:57,439
+simple definition of Conversion Rate
+Optimization can be found on Wikipedia,
+
+26
+00:01:57,439 --> 00:02:03,810
+which describes Conversion Rate
+Optimization as, "A system for increasing
+
+27
+00:02:03,810 --> 00:02:08,819
+the percentage of visitors to a website
+that convert into customers, or more
+
+28
+00:02:08,819 --> 00:02:11,790
+generally, take any desired action on a
+webpage.
+
+29
+00:02:11,790 --> 00:02:18,480
+It is commonly referred to as CRO."
+What does this mean in practice? Let's
+
+30
+00:02:18,480 --> 00:02:23,790
+start by considering two websites. They
+appear identical in every way, they have
+
+31
+00:02:23,790 --> 00:02:28,439
+the same amount of daily traffic, the
+same web copy, and at the start, the same
+
+32
+00:02:28,439 --> 00:02:33,780
+conversion rate. Let's assume that they
+convert at 2%, that means, that out of
+
+33
+00:02:33,780 --> 00:02:38,250
+every 100 visitors to the website, two of
+them will make it all the way through
+
+34
+00:02:38,250 --> 00:02:43,590
+the sales process and actually end up
+buying something from the website. If just
+
+35
+00:02:43,590 --> 00:02:48,090
+2% of visitors are purchasing from the
+website, that means that all of the
+
+36
+00:02:48,090 --> 00:02:53,189
+site's revenue is coming from just 2% of
+the traffic. Now suppose, that one of
+
+37
+00:02:53,189 --> 00:02:58,260
+these websites starts to implement
+Conversion Optimization strategies. Both
+
+38
+00:02:58,260 --> 00:03:02,849
+of the websites continue to receive the
+same amount of traffic, so there is no
+
+39
+00:03:02,849 --> 00:03:07,620
+difference in the amount of money being
+spent to promote the site. The only
+
+40
+00:03:07,620 --> 00:03:12,810
+difference is, in what happens once the
+visitor reaches the website. The good
+
+41
+00:03:12,810 --> 00:03:17,909
+news here is that that means that all of
+these issues are directly under the
+
+42
+00:03:17,909 --> 00:03:23,250
+control of the website owner. After a few
+months of consistently working to
+
+43
+00:03:23,250 --> 00:03:28,109
+optimize one of the websites, it should be
+possible to see that, while website A is
+
+44
+00:03:28,109 --> 00:03:34,440
+still converting at 2%, website B is now
+converting at 3%. You may be thinking
+
+45
+00:03:34,440 --> 00:03:38,729
+that a 1% difference in a conversion
+rate doesn't sound like very much, but
+
+46
+00:03:38,729 --> 00:03:43,769
+think about it in terms of absolute
+figures. How much traffic does your own
+
+47
+00:03:43,769 --> 00:03:49,409
+website receive in an average month? If
+you average 10,000 website visitors each
+
+48
+00:03:49,409 --> 00:03:55,590
+month, a 2% conversion rate will bring
+you 200 sales. With the same traffic
+
+49
+00:03:55,590 --> 00:04:01,409
+figures, a 3% conversion rate
+will produce 300 sales, that's an extra
+
+50
+00:04:01,409 --> 00:04:08,129
+100 sales on your website with no extra
+work, or promoting your website. What sort
+
+51
+00:04:08,129 --> 00:04:12,689
+of changes can produce these results?
+Conversion Optimization isn't
+
+52
+00:04:12,689 --> 00:04:17,930
+necessarily about making big changes. It
+is more usually about making small
+
+53
+00:04:17,930 --> 00:04:23,580
+incremental changes over an extended
+time that can lead to big results and a
+
+54
+00:04:23,580 --> 00:04:28,320
+substantial increase in revenue
+over time. It might be that just altering
+
+55
+00:04:28,320 --> 00:04:33,390
+a single image, or one line of text could
+increase your conversion rate to the
+
+56
+00:04:33,390 --> 00:04:38,250
+point that you end up making millions of
+pounds more over time. Conversion
+
+57
+00:04:38,250 --> 00:04:43,200
+Optimization isn't a one-off process, it
+needs to be thought of as an ongoing
+
+58
+00:04:43,200 --> 00:04:48,390
+operation. You make a change, and then
+test that change to see how effective it
+
+59
+00:04:48,390 --> 00:04:54,270
+has been. Over time, you'll find out what
+changes work and what doesn't work. Some
+
+60
+00:04:54,270 --> 00:04:58,680
+changes you might make, actually reduce
+your conversion rate. If you find out
+
+61
+00:04:58,680 --> 00:05:03,870
+what has happened, don't panic, you
+now know what doesn't work, you just need
+
+62
+00:05:03,870 --> 00:05:07,650
+to find out why it doesn't work and then
+you will be in a much stronger position
+
+63
+00:05:07,650 --> 00:05:12,210
+to make the changes that will result in
+higher conversions and a growth in
+
+64
+00:05:12,210 --> 00:05:16,230
+revenue. Throughout this course, we are
+going to look at how you can take the
+
+65
+00:05:16,230 --> 00:05:20,580
+principles of Conversion Optimization
+and apply them so that you can take
+
+66
+00:05:20,580 --> 00:05:25,020
+control of your website traffic and
+transform those visitors into real sales,
+
+67
+00:05:25,020 --> 00:05:29,430
+or leads, or subscribers, or whatever you
+want to do with those people who are
+
+68
+00:05:29,430 --> 00:05:33,990
+viewing your website. We will look at
+each of the ways customers interact with
+
+69
+00:05:33,990 --> 00:05:39,030
+your website and see how we can optimize
+each of them to maximize the benefits of
+
+70
+00:05:39,030 --> 00:05:45,060
+each of them to you. Why should you worry
+about Conversion Optimization, even if
+
+71
+00:05:45,060 --> 00:05:49,110
+your website conversion rate is in gray,
+can't you just get more traffic just by
+
+72
+00:05:49,110 --> 00:05:53,940
+paying for a few extra adverts and
+bringing an extra sale that way? What's
+
+73
+00:05:53,940 --> 00:05:57,780
+the advantage of the Conversion
+Optimization approach compared to simply
+
+74
+00:05:57,780 --> 00:06:02,280
+driving more traffic and getting more
+sales that way? The best answer is that
+
+75
+00:06:02,280 --> 00:06:06,030
+Conversion Optimization works
+better and will ultimately produce
+
+76
+00:06:06,030 --> 00:06:10,710
+better results for your business. By
+improving your conversion rate, you
+
+77
+00:06:10,710 --> 00:06:14,340
+improve the quality of your business. You
+build a stronger connection with your
+
+78
+00:06:14,340 --> 00:06:18,630
+visitors, as more of them go on to
+become your customers. You improve the
+
+79
+00:06:18,630 --> 00:06:22,620
+public perception of your business, as
+more of those that read your website, are
+
+80
+00:06:22,620 --> 00:06:27,690
+left with a favorable impression that
+your business is useful to them. On top
+
+81
+00:06:27,690 --> 00:06:32,370
+of all of these benefits, you ultimately,
+reduce your expenses as you now have to
+
+82
+00:06:32,370 --> 00:06:37,590
+buy less adverts, you increase your
+productivity and your overall market
+
+83
+00:06:37,590 --> 00:06:41,000
+share as your
+business grows. How are all of these
+
+84
+00:06:41,000 --> 00:06:45,860
+results achieved? By focusing on
+continuous improvement, make more of your
+
+85
+00:06:45,860 --> 00:06:50,270
+traffic profitable. So, your advertising
+budget will stretch further and provide
+
+86
+00:06:50,270 --> 00:06:55,430
+a better overall experience for
+customers. Who makes the decisions in
+
+87
+00:06:55,430 --> 00:06:59,479
+your business?
+What do they base these decisions on? Often
+
+88
+00:06:59,479 --> 00:07:03,110
+in a business, what you will find is, that
+the person at the top makes all the
+
+89
+00:07:03,110 --> 00:07:07,120
+decisions, and getting their approval is
+essential for any plan to move forward.
+
+90
+00:07:07,120 --> 00:07:12,440
+They will make their final decision for
+any of a variety of reasons. It may be
+
+91
+00:07:12,440 --> 00:07:16,759
+that, they will examine all of the data
+on a given subject and then follow what
+
+92
+00:07:16,759 --> 00:07:20,870
+the data says they should do. Or perhaps,
+they are one of those managers that
+
+93
+00:07:20,870 --> 00:07:24,349
+bases their decision on the way that
+they feel at the time of their own
+
+94
+00:07:24,349 --> 00:07:29,979
+personal experience. They use their gut
+instinct as the basis for their decision.
+
+95
+00:07:29,979 --> 00:07:33,949
+Understanding how those decisions are
+made, will help when it comes to
+
+96
+00:07:33,949 --> 00:07:37,669
+discussing the changes that will have to
+come to your business, if you're going to
+
+97
+00:07:37,669 --> 00:07:42,860
+take Conversion Optimization seriously.
+There is a lot of data to look at, in
+
+98
+00:07:42,860 --> 00:07:47,719
+Conversion Optimization. You could spend
+weeks working through the analytics, and
+
+99
+00:07:47,719 --> 00:07:52,190
+seeing where people left your website
+and why they didn't convert. You need to
+
+100
+00:07:52,190 --> 00:07:56,719
+try to empathize with your customers and
+think about how they are responding to
+
+101
+00:07:56,719 --> 00:08:01,639
+your website. It is this balancing act,
+that you must successfully complete if
+
+102
+00:08:01,639 --> 00:08:06,380
+you are to truly master Conversion
+Optimization. To do this, there are
+
+103
+00:08:06,380 --> 00:08:10,849
+probably going to have to be some big
+changes to the way your company thinks.
+
+104
+00:08:10,849 --> 00:08:15,919
+The customer experience must become
+central to everything you do, perhaps you
+
+105
+00:08:15,919 --> 00:08:19,639
+think this is already true for your
+business. But in my experience, when you
+
+106
+00:08:19,639 --> 00:08:24,440
+really start to examine the facts, it's
+rarely the case. We will look at what you
+
+107
+00:08:24,440 --> 00:08:28,250
+can do one step at a time, to
+revolutionize the way you do business
+
+108
+00:08:28,250 --> 00:08:34,640
+and move to a culture of customer-centric continuous improvement. Customer
+
+109
+00:08:34,640 --> 00:08:39,399
+focus and continuous improvement are the
+two central pillars of business success.
+
+110
+00:08:39,399 --> 00:08:44,870
+Focus on improving your product, focus on
+improving your marketing, focus on giving
+
+111
+00:08:44,870 --> 00:08:49,610
+your customers the experience they want.
+What big-name companies can you think of
+
+112
+00:08:49,610 --> 00:08:52,850
+that are known for being
+successful and dominating their chosen
+
+113
+00:08:52,850 --> 00:08:58,100
+market? Perhaps, you might come up with a
+list of names like Sony, Apple, Hilton, or
+
+114
+00:08:58,100 --> 00:09:03,050
+Amazon. What do all companies have in
+common? They place the customer
+
+115
+00:09:03,050 --> 00:09:06,620
+experience at the forefront of
+everything they do. They focus on
+
+116
+00:09:06,620 --> 00:09:10,460
+providing the customer with the best
+possible experience and they focus on
+
+117
+00:09:10,460 --> 00:09:15,230
+continually looking for ways to improve
+that experience. Let's now go through a
+
+118
+00:09:15,230 --> 00:09:19,580
+case study to understand the importance
+of continuous improvement and customer
+
+119
+00:09:19,580 --> 00:09:26,540
+focus. In the online world, Amazon are the
+undisputed winners in the customer-centric
+
+120
+00:09:26,540 --> 00:09:31,339
+stakes. From the very beginning of the
+company, they have always focused in on
+
+121
+00:09:31,339 --> 00:09:36,140
+the customer, always tried to do things
+better than they were. This drive to put
+
+122
+00:09:36,140 --> 00:09:40,370
+the customer front and center has led
+them to constantly improving every
+
+123
+00:09:40,370 --> 00:09:44,360
+detail of their site. You might think
+that by now, they would have worked out
+
+124
+00:09:44,360 --> 00:09:48,650
+the best design for their website. But
+they are still running more than 200
+
+125
+00:09:48,650 --> 00:09:53,660
+tests at any one time, constantly
+striving to improve every aspect of
+
+126
+00:09:53,660 --> 00:09:58,250
+their operations. See how Amazon have
+changed their website over the years,
+
+127
+00:09:58,250 --> 00:10:05,060
+always improving it one detail after
+another. Focus for a moment on their "Add
+
+128
+00:10:05,060 --> 00:10:10,190
+to Cart" button. In the late 90s, the words
+"you can always remove it later", appeared
+
+129
+00:10:10,190 --> 00:10:15,860
+by the bottom. They also included words
+of reassurance, "safe" and "guaranteed". At
+
+130
+00:10:15,860 --> 00:10:19,490
+this time, internet shopping was still a
+relatively new experience for many
+
+131
+00:10:19,490 --> 00:10:23,270
+people and they were keen to reassure
+customers that their orders were safe
+
+132
+00:10:23,270 --> 00:10:27,980
+with Amazon. Later they removed some of
+this wording and moved to Amazon
+
+133
+00:10:27,980 --> 00:10:33,589
+1-click. By this time, we were all a
+lot more comfortable with buying online
+
+134
+00:10:33,589 --> 00:10:38,180
+and the focus for Amazon was more on
+making the buying process as simple as
+
+135
+00:10:38,180 --> 00:10:43,910
+possible. Later still, Amazon introduced
+Amazon Marketplace and were happy to
+
+136
+00:10:43,910 --> 00:10:47,480
+actually, let their conversion rate drop
+a little bit, as they could increase
+
+137
+00:10:47,480 --> 00:10:52,190
+their revenue by selling used books. Now
+it's highly profitable for them, no
+
+138
+00:10:52,190 --> 00:10:56,870
+stocks, no extra advertising, they just
+earn a percentage as a broker between
+
+139
+00:10:56,870 --> 00:11:01,339
+the seller and the buyer. There is always
+this balance or tension between
+
+140
+00:11:01,339 --> 00:11:04,590
+increasing your conversion rate and your
+revenue,
+
+141
+00:11:04,590 --> 00:11:10,320
+and you have to know what the best mix
+is for your business. Another important
+
+142
+00:11:10,320 --> 00:11:14,910
+principle of Conversion Optimization is
+balancing your available resources. That
+
+143
+00:11:14,910 --> 00:11:20,760
+is what you have available to help in
+your Conversion Optimization efforts. It
+
+144
+00:11:20,760 --> 00:11:24,510
+comes down to three types of things that
+you will need if you're going to be able
+
+145
+00:11:24,510 --> 00:11:29,730
+to get anything done. You're going to
+need resources, you can't use things you
+
+146
+00:11:29,730 --> 00:11:34,650
+don't have. So what do you have on hand
+right now, that you can use to work on
+
+147
+00:11:34,650 --> 00:11:40,200
+Conversion Optimization? Invest whatever
+you have, focus on whatever resources you
+
+148
+00:11:40,200 --> 00:11:45,360
+have on the problem, and don't worry for
+now about what you don't have. You're
+
+149
+00:11:45,360 --> 00:11:50,550
+also going to need people. People are an
+essential component of any Conversion
+
+150
+00:11:50,550 --> 00:11:55,500
+Optimization strategy. You need people to
+identify the changes that need to happen
+
+151
+00:11:55,500 --> 00:11:58,310
+and you need people to make those
+changes:
+
+152
+00:11:58,310 --> 00:12:04,950
+designers, copywriters, technical people,
+they all play a part in the process. Then,
+
+153
+00:12:04,950 --> 00:12:10,020
+culture. What is your corporate culture
+like? Will your approach to Conversion
+
+154
+00:12:10,020 --> 00:12:14,490
+Optimization make a difference on the
+way your organization thinks? If you
+
+155
+00:12:14,490 --> 00:12:19,260
+become too focused on one area, it's
+possible that your entire strategy could
+
+156
+00:12:19,260 --> 00:12:25,020
+become unstuck. It is common for everyone
+to focus on traffic. There is the abiding
+
+157
+00:12:25,020 --> 00:12:30,630
+idea that the more traffic equals, more
+sales. This is not necessarily the case,
+
+158
+00:12:30,630 --> 00:12:35,910
+you need to focus less on PPC and
+driving traffic, and more on user
+
+159
+00:12:35,910 --> 00:12:42,030
+experience. Start conducting usability
+studies, examine your copy, your analytics,
+
+160
+00:12:42,030 --> 00:12:46,740
+plan to offer a better on-site
+experience. Don't worry so much about
+
+161
+00:12:46,740 --> 00:12:51,840
+things that are off your website like PPC,
+focus your effort and your budget on
+
+162
+00:12:51,840 --> 00:12:57,630
+conversion rate. Remember, most websites
+don't have a traffic problem, they need
+
+163
+00:12:57,630 --> 00:13:01,890
+to improve their conversion rate.
+Improving the experience of those who
+
+164
+00:13:01,890 --> 00:13:06,540
+visit your site, can double your sales. If
+you're really going to make progress
+
+165
+00:13:06,540 --> 00:13:10,920
+towards a coherent conversion
+optimization strategy, then you will need
+
+166
+00:13:10,920 --> 00:13:16,140
+to consider three specific areas:
+marketing, graphic design, copywriting,
+
+167
+00:13:16,140 --> 00:13:20,110
+creative resources,
+and technical.
+
+168
+00:13:20,110 --> 00:13:24,470
+Someone within your organization will
+have to take ownership of the Conversion
+
+169
+00:13:24,470 --> 00:13:29,390
+Optimization project and push it forward
+in all of these areas. One of the
+
+170
+00:13:29,390 --> 00:13:33,140
+greatest dangers with their strategy is,
+that it becomes the responsibility of
+
+171
+00:13:33,140 --> 00:13:37,820
+one department, one area of your company,
+and people begin to work individually,
+
+172
+00:13:37,820 --> 00:13:42,650
+rather than as a team.
+You must get everyone on board with what
+
+173
+00:13:42,650 --> 00:13:46,190
+you are doing and shift your corporate
+culture, if you're going to make this
+
+174
+00:13:46,190 --> 00:13:51,230
+work. Everyone from marketing to the
+creative people, the designers, copywriter,
+
+175
+00:13:51,230 --> 00:13:55,520
+the flash people, to those who copy and
+paste code to your website to make the
+
+176
+00:13:55,520 --> 00:14:00,320
+changes you need, they all have to know
+where this process is leading and what
+
+177
+00:14:00,320 --> 00:14:04,550
+the ultimate goal is. You need resources,
+but most of all you need the process:
+
+178
+00:14:04,550 --> 00:14:11,060
+Plan, measure, improve, repeat. Visitors
+come to your websites for a variety of
+
+179
+00:14:11,060 --> 00:14:15,290
+reasons. But they all have at least some
+level of interest in you or your brand,
+
+180
+00:14:15,290 --> 00:14:19,730
+otherwise, they would not be there.
+Once they reach your website, it is your
+
+181
+00:14:19,730 --> 00:14:23,420
+job to persuade them to buy. To do this,
+you will need to think through your
+
+182
+00:14:23,420 --> 00:14:28,430
+persuasion architecture process, that is
+the process you go through to persuade
+
+183
+00:14:28,430 --> 00:14:32,990
+someone to take the all important step
+and actually buy from you. There are
+
+184
+00:14:32,990 --> 00:14:37,010
+three parts to this process, or rather
+three questions that you will need to
+
+185
+00:14:37,010 --> 00:14:42,320
+ask: Who are we trying to persuade? It's
+much easier to make a sale if you know
+
+186
+00:14:42,320 --> 00:14:46,340
+the person you are talking to. You know
+what appeals to them and where their
+
+187
+00:14:46,340 --> 00:14:50,150
+interests lie. You can adapt your selling
+approach to answer all the questions
+
+188
+00:14:50,150 --> 00:14:55,850
+that they are likely to have. What action
+do we want them to take? You must be
+
+189
+00:14:55,850 --> 00:14:59,570
+clear about the actions you want your
+reader to take: do you want them to
+
+190
+00:14:59,570 --> 00:15:04,700
+forward a link, buy something, subscribe
+to your list, download something, it must
+
+191
+00:15:04,700 --> 00:15:09,410
+be a clearly defined path for them to
+follow, not just in terms of big actions,
+
+192
+00:15:09,410 --> 00:15:14,000
+think of the micro-action level as well,
+what action should they take on this
+
+193
+00:15:14,000 --> 00:15:19,190
+page and next page and next page, all the
+way through from the landing page to
+
+194
+00:15:19,190 --> 00:15:26,150
+final conversion. What actions do they
+want to take? People have a variety of
+
+195
+00:15:26,150 --> 00:15:30,020
+goals in view, when they reach your
+website. You may want them to do one
+
+196
+00:15:30,020 --> 00:15:32,880
+thing, they may have a completely
+different goal in view.
+
+197
+00:15:32,880 --> 00:15:37,560
+They are in control of the experience
+they have on your website. They want to
+
+198
+00:15:37,560 --> 00:15:42,540
+accomplish a particular task, we must
+help them to accomplish their task while
+
+199
+00:15:42,540 --> 00:15:47,070
+at the same time, helping them to take
+the action we want them to take. In this
+
+200
+00:15:47,070 --> 00:15:53,130
+way, they will be a satisfied customer and we'll also achieve our goals. If you
+
+201
+00:15:53,130 --> 00:15:56,730
+know anything about human nature, then
+you know that human beings are all
+
+202
+00:15:56,730 --> 00:16:01,410
+different. Some of us are more logical,
+some are more emotional in the way we
+
+203
+00:16:01,410 --> 00:16:05,640
+respond to situations and the way we
+gather and process information also
+
+204
+00:16:05,640 --> 00:16:10,770
+varies. Some of us are more spontaneous
+in our actions, while others take a more
+
+205
+00:16:10,770 --> 00:16:15,540
+logical approach to the buying process.
+This different approach to information
+
+206
+00:16:15,540 --> 00:16:19,580
+gathering can be seen in the way people
+consume the information on your website.
+
+207
+00:16:19,580 --> 00:16:24,590
+Studies show that there are four unique
+patterns of eye tracking over websites.
+
+208
+00:16:24,590 --> 00:16:29,220
+People that are more competitive, tend to
+focus their gaze on the top of the page.
+
+209
+00:16:29,220 --> 00:16:34,650
+Those who are more methodical in nature,
+will look at all of the different data
+
+210
+00:16:34,650 --> 00:16:39,540
+points on the page, study the page
+navigation and see how everything is
+
+211
+00:16:39,540 --> 00:16:45,300
+connected. Then there are the spontaneous
+type of people, these are attracted to
+
+212
+00:16:45,300 --> 00:16:50,550
+interaction, they like pictures of people,
+they like to see what's going on. Finally,
+
+213
+00:16:50,550 --> 00:16:55,800
+there are the humanistic types, these
+visitors are little more deliberate, more
+
+214
+00:16:55,800 --> 00:17:00,360
+emotionally involved with the page. Each
+of these types of person is going to
+
+215
+00:17:00,360 --> 00:17:04,380
+approach a webpage differently, they are
+all going to want to see different
+
+216
+00:17:04,380 --> 00:17:08,699
+things if you're going to persuade them
+to buy from you. We need to work out the
+
+217
+00:17:08,699 --> 00:17:13,020
+goals of each of these different types of
+visitors. And to help us do that, we
+
+218
+00:17:13,020 --> 00:17:18,569
+create personas, buying models to help us
+determine what each customer wants to
+
+219
+00:17:18,569 --> 00:17:23,939
+achieve on your website. In addition to
+these personality types, we can divide
+
+220
+00:17:23,939 --> 00:17:27,990
+your visitors into other groups as well.
+There are people who know about your
+
+221
+00:17:27,990 --> 00:17:31,170
+company, compared to those who don't know
+anything about your business and what
+
+222
+00:17:31,170 --> 00:17:36,330
+you can do. There are returning buyers
+and new customers. They all start from
+
+223
+00:17:36,330 --> 00:17:40,740
+different levels of knowledge and have
+varying expectations from your business.
+
+224
+00:17:40,740 --> 00:17:45,740
+There are also different ways visitors
+reach your website, that can have
+
+225
+00:17:45,740 --> 00:17:49,309
+effects on how they feel about your
+business and what they are expecting
+
+226
+00:17:49,309 --> 00:17:54,050
+from you. So we could segment your
+visitors by those who arrived by a PPC,
+
+227
+00:17:54,050 --> 00:17:59,780
+and those who came to you from social
+media. We can make the segmentation as
+
+228
+00:17:59,780 --> 00:18:04,190
+simple or as complex as we wish.
+The object is to help us create the
+
+229
+00:18:04,190 --> 00:18:08,750
+content for each of these groups of
+people needed to complete the sale. We
+
+230
+00:18:08,750 --> 00:18:13,429
+need to build empathy with them. To do
+this, we will be testing every aspect of
+
+231
+00:18:13,429 --> 00:18:18,440
+your web page. There are tools that can
+help you do this. The Analytics Content
+
+232
+00:18:18,440 --> 00:18:23,360
+Experiments in Google Analytics allows
+you to test every element on your page
+
+233
+00:18:23,360 --> 00:18:28,790
+and see if it will appeal more to
+competitive or methodical personality
+
+234
+00:18:28,790 --> 00:18:32,210
+types.
+Tools like this can be useful and will
+
+235
+00:18:32,210 --> 00:18:36,260
+help you make important decisions about
+which elements to include in your
+
+236
+00:18:36,260 --> 00:18:41,240
+webpages. You can't change every aspect
+of your website at once, or you won't
+
+237
+00:18:41,240 --> 00:18:45,650
+know which changes affected your
+conversion rate. Start small, one change
+
+238
+00:18:45,650 --> 00:18:51,020
+at a time. This is the power of this tool.
+5% may not be much, and it only takes a
+
+239
+00:18:51,020 --> 00:18:56,570
+few hours a month to get to that point.
+But compounded over a 12-month period by
+
+240
+00:18:56,570 --> 00:18:59,750
+the end of the year, you will have
+increased your conversion rate by more
+
+241
+00:18:59,750 --> 00:19:04,880
+than 80%. The key to reaching this
+point is, to focus on improving your
+
+242
+00:19:04,880 --> 00:19:10,010
+corporate metabolism. No single perch is
+going to achieve your long-term goals, it
+
+243
+00:19:10,010 --> 00:19:14,720
+must become a way of life for everyone
+at your business. Constantly seizing your
+
+244
+00:19:14,720 --> 00:19:17,240
+opportunities and increasing your market
+share
+
+245
+00:19:17,240 --> 00:19:22,280
+step by step, this process works, the
+question is, will you work the process
+
+246
+00:19:22,280 --> 00:19:28,970
+and achieve your goals? In this lesson, we
+have seen that Conversion Optimization
+
+247
+00:19:28,970 --> 00:19:33,740
+is about making small incremental
+changes to your website over time. We
+
+248
+00:19:33,740 --> 00:19:37,940
+have said that optimization is an
+ongoing process, not something that you
+
+249
+00:19:37,940 --> 00:19:41,660
+do once and then leave. You have learned
+that there are different approaches to
+
+250
+00:19:41,660 --> 00:19:45,620
+information gathering and above all, we
+have seen the importance of being
+
+251
+00:19:45,620 --> 00:19:50,830
+customer-centric in every area of your
+operation.
+
